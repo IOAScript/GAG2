@@ -1,1 +1,1 @@
-dfgasag
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IOAScript/GAG2/refs/heads/main/Loader/Main.lua"))()
